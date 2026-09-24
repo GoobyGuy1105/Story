@@ -1,0 +1,15 @@
+C:\Users\yusuf.uludag\Documents\Programmering 1\Story\Story\bin\Debug\net10.0\Story.exe
+C:\Users\yusuf.uludag\Documents\Programmering 1\Story\Story\bin\Debug\net10.0\Story.deps.json
+C:\Users\yusuf.uludag\Documents\Programmering 1\Story\Story\bin\Debug\net10.0\Story.runtimeconfig.json
+C:\Users\yusuf.uludag\Documents\Programmering 1\Story\Story\bin\Debug\net10.0\Story.dll
+C:\Users\yusuf.uludag\Documents\Programmering 1\Story\Story\bin\Debug\net10.0\Story.pdb
+C:\Users\yusuf.uludag\Documents\Programmering 1\Story\Story\obj\Debug\net10.0\Story.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf.uludag\Documents\Programmering 1\Story\Story\obj\Debug\net10.0\Story.AssemblyInfoInputs.cache
+C:\Users\yusuf.uludag\Documents\Programmering 1\Story\Story\obj\Debug\net10.0\Story.AssemblyInfo.cs
+C:\Users\yusuf.uludag\Documents\Programmering 1\Story\Story\obj\Debug\net10.0\Story.csproj.CoreCompileInputs.cache
+C:\Users\yusuf.uludag\Documents\Programmering 1\Story\Story\obj\Debug\net10.0\Story.sourcelink.json
+C:\Users\yusuf.uludag\Documents\Programmering 1\Story\Story\obj\Debug\net10.0\Story.dll
+C:\Users\yusuf.uludag\Documents\Programmering 1\Story\Story\obj\Debug\net10.0\refint\Story.dll
+C:\Users\yusuf.uludag\Documents\Programmering 1\Story\Story\obj\Debug\net10.0\Story.pdb
+C:\Users\yusuf.uludag\Documents\Programmering 1\Story\Story\obj\Debug\net10.0\Story.genruntimeconfig.cache
+C:\Users\yusuf.uludag\Documents\Programmering 1\Story\Story\obj\Debug\net10.0\ref\Story.dll
